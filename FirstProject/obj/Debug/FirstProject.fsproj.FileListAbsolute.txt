@@ -6,3 +6,11 @@ c:\users\paolo\documents\visual studio 2015\Projects\FirstProject\FirstProject\b
 c:\users\paolo\documents\visual studio 2015\Projects\FirstProject\FirstProject\bin\Debug\FSharp.Core.xml
 c:\users\paolo\documents\visual studio 2015\Projects\FirstProject\FirstProject\obj\Debug\FirstProject.exe
 c:\users\paolo\documents\visual studio 2015\Projects\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
+C:\Users\Paolo\Documents\GitHub\PaintEditor\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\Paolo\Documents\GitHub\PaintEditor\FirstProject\bin\Debug\FirstProject.XML
+C:\Users\Paolo\Documents\GitHub\PaintEditor\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\Paolo\Documents\GitHub\PaintEditor\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\Paolo\Documents\GitHub\PaintEditor\FirstProject\bin\Debug\FSharp.Core.dll
+C:\Users\Paolo\Documents\GitHub\PaintEditor\FirstProject\bin\Debug\FSharp.Core.xml
+C:\Users\Paolo\Documents\GitHub\PaintEditor\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\Paolo\Documents\GitHub\PaintEditor\FirstProject\obj\Debug\FirstProject.pdb
